@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Backpacking</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Europe">Europe</string>
+    <string name="Asia">Asia</string>
+    <string name="Africa">africa</string>
+    <string name="America">america</string>
+    <string name="Oceania">oceania</string>
+
+</resources>

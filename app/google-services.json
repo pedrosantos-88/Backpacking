@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454766825218",
+    "firebase_url": "https://backpacking-23263.firebaseio.com",
+    "project_id": "backpacking-23263",
+    "storage_bucket": "backpacking-23263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454766825218:android:297b4cb4263d67b1",
+        "android_client_info": {
+          "package_name": "com.android.firebaseapp.backpacking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454766825218-v48dq9icdc3mn8gjdecuuqcdq03a77q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.firebaseapp.backpacking",
+            "certificate_hash": "54c82c57feed3d21b009c0065d48436621f78ff8"
+          }
+        },
+        {
+          "client_id": "454766825218-7glh8gv50qfae7h0k194c76mv7iov3qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXOU12YrkLUYlHMmKmW6AA5Nz0R9s7Ebw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454766825218-7glh8gv50qfae7h0k194c76mv7iov3qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
